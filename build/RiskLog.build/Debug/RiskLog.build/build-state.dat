@@ -1,0 +1,300 @@
+TRiskLog
+v7
+r0
+t280151366.496556
+cCheck dependencies
+cProcessInfoPlistFile /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/Info.plist RiskLog-Info.plist
+cCpResource build/Debug/RiskLog.app/Contents/Resources/English.lproj/Credits.rtf English.lproj/Credits.rtf
+cCopyStringsFile /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/kevinmcaleer/Xcode/Dev/RiskLog/English.lproj/MainMenu.xib
+cCompileXIB /Users/kevinmcaleer/Xcode/Dev/RiskLog/English.lproj/MyDocument.xib
+cProcessPCH /var/folders/wH/wHJERgQgE10b4aXHp8Utt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RiskLog_Prefix-cghvquowvbduhhdkcpfrftvzktxy/RiskLog_Prefix.pch.gch RiskLog_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cDataModelCompile /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/Resources/MyDocument.mom /Users/kevinmcaleer/Xcode/Dev/RiskLog/MyDocument.xcdatamodel
+cCompileC build/RiskLog.build/Debug/RiskLog.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o /Users/kevinmcaleer/Xcode/Dev/RiskLog/MyDocument.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RiskLog.build/Debug/RiskLog.build/Objects-normal/x86_64/main.o /Users/kevinmcaleer/Xcode/Dev/RiskLog/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/MacOS/RiskLog normal x86_64
+cTouch /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004A583802000000000000043A
+t1247295490
+s1082
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A600B8400000000000013E6
+t1247808388
+s5094
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/kevinmcaleer/Xcode/Dev/RiskLog/English.lproj/Credits.rtf
+c000000004B027C3300000000000001B4
+t1258454067
+s436
+
+N/Users/kevinmcaleer/Xcode/Dev/RiskLog/English.lproj/InfoPlist.strings
+c000000004B027C33000000000000005A
+t1258454067
+s90
+
+N/Users/kevinmcaleer/Xcode/Dev/RiskLog/English.lproj/MainMenu.xib
+c000000004B027C3300000000000216C1
+t1258454067
+s136897
+
+N/Users/kevinmcaleer/Xcode/Dev/RiskLog/English.lproj/MyDocument.xib
+c000000004B028DC5000000000000CAB5
+t1258458565
+s51893
+
+N/Users/kevinmcaleer/Xcode/Dev/RiskLog/MyDocument.h
+c000000004B027C3300000000000000E3
+t1258454067
+s227
+i<Cocoa/Cocoa.h>
+
+N/Users/kevinmcaleer/Xcode/Dev/RiskLog/MyDocument.m
+c000000004B027C33000000000000022F
+t1258454067
+s559
+i"MyDocument.h"
+
+N/Users/kevinmcaleer/Xcode/Dev/RiskLog/MyDocument.xcdatamodel
+c000000004B028C1400000000000000AA
+t1258458132
+s170
+
+N/Users/kevinmcaleer/Xcode/Dev/RiskLog/Risk.h
+c000000004B028B6100000000000003DB
+t1258457953
+s987
+i<CoreData/CoreData.h>
+i"Project.h"
+
+N/Users/kevinmcaleer/Xcode/Dev/RiskLog/Risk.m
+c000000004B028B8D00000000000001DB
+t1258457997
+s475
+i"Risk.h"
+
+N/Users/kevinmcaleer/Xcode/Dev/RiskLog/RiskLog_Prefix.pch
+c000000004B027C3300000000000000D9
+t1258454067
+s217
+i<Foundation/Foundation.h>
+i<CoreData/CoreData.h>
+i<Cocoa/Cocoa.h>
+
+N/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app
+t1258458566
+s136
+
+N/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/Info.plist
+t1258454872
+s2488
+
+N/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/MacOS/RiskLog
+t1258458302
+s10440
+
+N/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/PkgInfo
+t1258454872
+s8
+
+N/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/Resources/English.lproj/Credits.rtf
+t1258454872
+s436
+
+N/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1258454873
+s90
+
+N/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/Resources/English.lproj/MainMenu.nib
+t1258454873
+s30741
+
+N/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/Resources/English.lproj/MyDocument.nib
+t1258458566
+s13955
+
+N/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/Resources/MyDocument.mom
+t1258458162
+s5352
+
+N/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/RiskLog.build/Debug/RiskLog.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o
+t1258454878
+s19120
+
+N/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/RiskLog.build/Debug/RiskLog.build/Objects-normal/x86_64/Risk.o
+t2
+s0
+
+N/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/RiskLog.build/Debug/RiskLog.build/Objects-normal/x86_64/RiskLog.LinkFileList
+c000000004B028CBC00000000000000ED
+t1258458300
+s237
+
+N/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/RiskLog.build/Debug/RiskLog.build/Objects-normal/x86_64/main.o
+t1258454878
+s4984
+
+N/Users/kevinmcaleer/Xcode/Dev/RiskLog/main.m
+c000000004B027C330000000000000105
+t1258454067
+s261
+i<Cocoa/Cocoa.h>
+
+N/var/folders/wH/wHJERgQgE10b4aXHp8Utt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RiskLog_Prefix-cghvquowvbduhhdkcpfrftvzktxy/RiskLog_Prefix.pch.gch
+t1258454878
+s54212368
+
+NRiskLog-Info.plist
+c000000004B027C330000000000000A6D
+t1258454067
+s2669
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies280151366#280151366#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/RiskLog.build/Debug/RiskLog.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o /Users/kevinmcaleer/Xcode/Dev/RiskLog/MyDocument.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s280147678.410764
+e280147678.758848
+r1
+xCompileC
+xbuild/RiskLog.build/Debug/RiskLog.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o
+x/Users/kevinmcaleer/Xcode/Dev/RiskLog/MyDocument.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/kevinmcaleer/Xcode/Dev/RiskLog/MyDocument.m280147678#280147678#0(0"0(0#0#50"/Users/kevinmcaleer/Xcode/Dev/RiskLog/MyDocument.m4300882208#1107"    cd /Users/kevinmcaleer/Xcode/Dev/RiskLog    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/RiskLog.build/Debug/RiskLog.build/RiskLog.hmap -F/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug -I/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/include -I/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/RiskLog.build/Debug/RiskLog.build/DerivedSources/x86_64 -I/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/RiskLog.build/Debug/RiskLog.build/DerivedSources -include /var/folders/wH/wHJERgQgE10b4aXHp8Utt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RiskLog_Prefix-cghvquowvbduhhdkcpfrftvzktxy/RiskLog_Prefix.pch -c /Users/kevinmcaleer/Xcode/Dev/RiskLog/MyDocument.m -o /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/RiskLog.build/Debug/RiskLog.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o0#
+
+CCompileC build/RiskLog.build/Debug/RiskLog.build/Objects-normal/x86_64/Risk.o /Users/kevinmcaleer/Xcode/Dev/RiskLog/Risk.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s280151065.093016
+e280151065.306718
+r0
+xCompileC
+xbuild/RiskLog.build/Debug/RiskLog.build/Objects-normal/x86_64/Risk.o
+x/Users/kevinmcaleer/Xcode/Dev/RiskLog/Risk.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/kevinmcaleer/Xcode/Dev/RiskLog/Risk.m:9:
+o/Users/kevinmcaleer/Xcode/Dev/RiskLog/Risk.h:10:20: error: Project.h: No such file or directory
+oIn file included from /Users/kevinmcaleer/Xcode/Dev/RiskLog/Risk.m:9:
+o/Users/kevinmcaleer/Xcode/Dev/RiskLog/Risk.h:14: error: cannot find interface declaration for 'Project', superclass of 'Risk'
+lSLF07#2@52"Compile /Users/kevinmcaleer/Xcode/Dev/RiskLog/Risk.m280151065#280151065#0(362"In file included from /Users/kevinmcaleer/Xcode/Dev/RiskLog/Risk.m:9:/Users/kevinmcaleer/Xcode/Dev/RiskLog/Risk.h:10:20: error: Project.h: No such file or directoryIn file included from /Users/kevinmcaleer/Xcode/Dev/RiskLog/Risk.m:9:/Users/kevinmcaleer/Xcode/Dev/RiskLog/Risk.h:14: error: cannot find interface declaration for 'Project', superclass of 'Risk'2(4@36"Project.h: No such file or directory280151065#70#96#2(7@66"In file included from /Users/kevinmcaleer/Xcode/Dev/RiskLog/Risk.m280151065#18446744073709551615#0#0(6@44"/Users/kevinmcaleer/Xcode/Dev/RiskLog/Risk.m280150797#9#0#9#0#0"0(13@84"Project.h: No such file or directory in /Users/kevinmcaleer/Xcode/Dev/RiskLog/Risk.h280151065#18446744073709551615#0#0(6@44"/Users/kevinmcaleer/Xcode/Dev/RiskLog/Risk.h280150753#10#0#10#0#0"0(6@44"/Users/kevinmcaleer/Xcode/Dev/RiskLog/Risk.h280150753#10#0#10#0#28"*: No such file or directory0(4@69"Cannot find interface declaration for 'Project', superclass of 'Risk'280151065#236#126#2(7@66"In file included from /Users/kevinmcaleer/Xcode/Dev/RiskLog/Risk.m280151065#18446744073709551615#0#0(6@44"/Users/kevinmcaleer/Xcode/Dev/RiskLog/Risk.m280150797#9#0#9#0#0"0(13@117"Cannot find interface declaration for 'Project', superclass of 'Risk' in /Users/kevinmcaleer/Xcode/Dev/RiskLog/Risk.h280151065#18446744073709551615#0#0(6@44"/Users/kevinmcaleer/Xcode/Dev/RiskLog/Risk.h280150753#14#0#14#0#0"0(6@44"/Users/kevinmcaleer/Xcode/Dev/RiskLog/Risk.h280150753#14#0#14#0#60"cannot find interface declaration for '*', superclass of '*'0(0#0#44"/Users/kevinmcaleer/Xcode/Dev/RiskLog/Risk.m4300882208#1078"    cd /Users/kevinmcaleer/Xcode/Dev/RiskLog    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/RiskLog.build/Debug/RiskLog.build/RiskLog.hmap -F/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug -I/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/include -I/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/RiskLog.build/Debug/RiskLog.build/DerivedSources/x86_64 -I/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/RiskLog.build/Debug/RiskLog.build/DerivedSources -include /var/folders/wH/wHJERgQgE10b4aXHp8Utt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RiskLog_Prefix-cghvquowvbduhhdkcpfrftvzktxy/RiskLog_Prefix.pch -c /Users/kevinmcaleer/Xcode/Dev/RiskLog/Risk.m -o /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/RiskLog.build/Debug/RiskLog.build/Objects-normal/x86_64/Risk.o1#
+
+CCompileC build/RiskLog.build/Debug/RiskLog.build/Objects-normal/x86_64/main.o /Users/kevinmcaleer/Xcode/Dev/RiskLog/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s280147678.731744
+e280147678.901599
+r1
+xCompileC
+xbuild/RiskLog.build/Debug/RiskLog.build/Objects-normal/x86_64/main.o
+x/Users/kevinmcaleer/Xcode/Dev/RiskLog/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/kevinmcaleer/Xcode/Dev/RiskLog/main.m280147678#280147678#0(0"0(0#0#44"/Users/kevinmcaleer/Xcode/Dev/RiskLog/main.m4300882208#1078"    cd /Users/kevinmcaleer/Xcode/Dev/RiskLog    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/RiskLog.build/Debug/RiskLog.build/RiskLog.hmap -F/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug -I/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/include -I/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/RiskLog.build/Debug/RiskLog.build/DerivedSources/x86_64 -I/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/RiskLog.build/Debug/RiskLog.build/DerivedSources -include /var/folders/wH/wHJERgQgE10b4aXHp8Utt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RiskLog_Prefix-cghvquowvbduhhdkcpfrftvzktxy/RiskLog_Prefix.pch -c /Users/kevinmcaleer/Xcode/Dev/RiskLog/main.m -o /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/RiskLog.build/Debug/RiskLog.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/kevinmcaleer/Xcode/Dev/RiskLog/English.lproj/MainMenu.xib
+s280147672.772866
+e280147673.304523
+r1
+xCompileXIB
+x/Users/kevinmcaleer/Xcode/Dev/RiskLog/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib280147672#280147673#0(0"0(0#0#64"/Users/kevinmcaleer/Xcode/Dev/RiskLog/English.lproj/MainMenu.xib4300882208#324"    cd /Users/kevinmcaleer/Xcode/Dev/RiskLog    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/Resources/English.lproj/MainMenu.nib /Users/kevinmcaleer/Xcode/Dev/RiskLog/English.lproj/MainMenu.xib0#
+
+CCompileXIB /Users/kevinmcaleer/Xcode/Dev/RiskLog/English.lproj/MyDocument.xib
+s280151366.143704
+e280151366.492312
+r1
+xCompileXIB
+x/Users/kevinmcaleer/Xcode/Dev/RiskLog/English.lproj/MyDocument.xib
+lSLF07#2@39"CompileXIB English.lproj/MyDocument.xib280151366#280151366#0(0"0(0#0#66"/Users/kevinmcaleer/Xcode/Dev/RiskLog/English.lproj/MyDocument.xib4300882208#328"    cd /Users/kevinmcaleer/Xcode/Dev/RiskLog    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/Resources/English.lproj/MyDocument.nib /Users/kevinmcaleer/Xcode/Dev/RiskLog/English.lproj/MyDocument.xib0#
+
+CCopyStringsFile /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s280147672.692575
+e280147673.239371
+r1
+xCopyStringsFile
+x/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings280147672#280147673#0(0"0(0#0#69"/Users/kevinmcaleer/Xcode/Dev/RiskLog/English.lproj/InfoPlist.strings4300882208#364"    cd /Users/kevinmcaleer/Xcode/Dev/RiskLog    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/RiskLog.app/Contents/Resources/English.lproj/Credits.rtf English.lproj/Credits.rtf
+s280147672.689011
+e280147672.772770
+r1
+xCpResource
+xbuild/Debug/RiskLog.app/Contents/Resources/English.lproj/Credits.rtf
+xEnglish.lproj/Credits.rtf
+lSLF07#2@30"Copy English.lproj/Credits.rtf280147672#280147672#0(0"0(0#0#63"/Users/kevinmcaleer/Xcode/Dev/RiskLog/English.lproj/Credits.rtf4300882208#352"    cd /Users/kevinmcaleer/Xcode/Dev/RiskLog    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kevinmcaleer/Xcode/Dev/RiskLog/English.lproj/Credits.rtf /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/Resources/English.lproj0#
+
+CDataModelCompile /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/Resources/MyDocument.mom /Users/kevinmcaleer/Xcode/Dev/RiskLog/MyDocument.xcdatamodel
+s280150961.945713
+e280150962.005646
+r1
+xDataModelCompile
+x/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/Resources/MyDocument.mom
+x/Users/kevinmcaleer/Xcode/Dev/RiskLog/MyDocument.xcdatamodel
+o/Users/kevinmcaleer/Xcode/Dev/RiskLog/MyDocument.xcdatamodel:Risk.Owner: warning: Risk.Owner -- relationship does not have an inverse 
+o/Users/kevinmcaleer/Xcode/Dev/RiskLog/MyDocument.xcdatamodel:Project.Risks: warning: Project.Risks -- to-many relationship does not have an inverse:  this is an advanced setting (no object can be in multiple destinations for a specific relationship) 
+lSLF07#2@68"Compile /Users/kevinmcaleer/Xcode/Dev/RiskLog/MyDocument.xcdatamodel280150961#280150962#0(386"/Users/kevinmcaleer/Xcode/Dev/RiskLog/MyDocument.xcdatamodel:Risk.Owner: warning: Risk.Owner -- relationship does not have an inverse /Users/kevinmcaleer/Xcode/Dev/RiskLog/MyDocument.xcdatamodel:Project.Risks: warning: Project.Risks -- to-many relationship does not have an inverse:  this is an advanced setting (no object can be in multiple destinations for a specific relationship) 2(22@52"Risk.Owner -- relationship does not have an inverse 280150961#18446744073709551615#0#0(6@60"/Users/kevinmcaleer/Xcode/Dev/RiskLog/MyDocument.xcdatamodel280150932#0#0#0#0#0"0(22@165"Project.Risks -- to-many relationship does not have an inverse:  this is an advanced setting (no object can be in multiple destinations for a specific relationship) 280150961#18446744073709551615#0#0(6@60"/Users/kevinmcaleer/Xcode/Dev/RiskLog/MyDocument.xcdatamodel280150932#0#0#0#0#0"0(0#0#60"/Users/kevinmcaleer/Xcode/Dev/RiskLog/MyDocument.xcdatamodel4300882208#259"    cd /Users/kevinmcaleer/Xcode/Dev/RiskLog    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/kevinmcaleer/Xcode/Dev/RiskLog/MyDocument.xcdatamodel /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/Resources/MyDocument.mom0#
+
+CLd /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/MacOS/RiskLog normal x86_64
+s280151100.505741
+e280151102.526360
+r1
+xLd
+x/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/MacOS/RiskLog
+xnormal
+xx86_64
+lSLF07#2@89"Link /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/MacOS/RiskLog280151100#280151102#0(0"0(0#0#0"4300882208#537"    cd /Users/kevinmcaleer/Xcode/Dev/RiskLog    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug -F/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug -filelist /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/RiskLog.build/Debug/RiskLog.build/Objects-normal/x86_64/RiskLog.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/MacOS/RiskLog0#
+
+CProcessInfoPlistFile /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/Info.plist RiskLog-Info.plist
+s280147672.657433
+e280147672.688906
+r1
+xProcessInfoPlistFile
+x/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/Info.plist
+xRiskLog-Info.plist
+lSLF07#2@26"Process RiskLog-Info.plist280147672#280147672#0(0"0(0#0#56"/Users/kevinmcaleer/Xcode/Dev/RiskLog/RiskLog-Info.plist23081149960487028#307"    cd /Users/kevinmcaleer/Xcode/Dev/RiskLog    builtin-infoPlistUtility RiskLog-Info.plist -genpkginfo /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/wH/wHJERgQgE10b4aXHp8Utt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RiskLog_Prefix-cghvquowvbduhhdkcpfrftvzktxy/RiskLog_Prefix.pch.gch RiskLog_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s280147673.563489
+e280147678.409389
+r1
+xProcessPCH
+x/var/folders/wH/wHJERgQgE10b4aXHp8Utt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RiskLog_Prefix-cghvquowvbduhhdkcpfrftvzktxy/RiskLog_Prefix.pch.gch
+xRiskLog_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile RiskLog_Prefix.pch280147673#280147678#0(0"0(0#0#56"/Users/kevinmcaleer/Xcode/Dev/RiskLog/RiskLog_Prefix.pch4300882208#985"    cd /Users/kevinmcaleer/Xcode/Dev/RiskLog    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/RiskLog.build/Debug/RiskLog.build/RiskLog.hmap -F/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug -I/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/include -I/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/RiskLog.build/Debug/RiskLog.build/DerivedSources/x86_64 -I/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/RiskLog.build/Debug/RiskLog.build/DerivedSources -c /Users/kevinmcaleer/Xcode/Dev/RiskLog/RiskLog_Prefix.pch -o /var/folders/wH/wHJERgQgE10b4aXHp8Utt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RiskLog_Prefix-cghvquowvbduhhdkcpfrftvzktxy/RiskLog_Prefix.pch.gch0#
+
+CTouch /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app
+s280151366.492859
+e280151366.496517
+r1
+xTouch
+x/Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app
+lSLF07#2@67"Touch /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app280151366#280151366#0(0"0(0#0#0"4300882208#129"    cd /Users/kevinmcaleer/Xcode/Dev/RiskLog    /usr/bin/touch -c /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app0#
+

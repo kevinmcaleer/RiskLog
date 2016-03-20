@@ -1,0 +1,12 @@
+c88f751e14c34143161d00820d8371be 7e06f9abf55014f16c5acb44f9b55c1c ffffffffffffffffffffffffffffffff 102 /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app
+000000004b027e4c0000000000000088 1b259d6e142ffb55637099cf500ec758 ffffffffffffffffffffffffffffffff 4925 /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/Resources/MyDocument.mom
+1d831ab2d85c114da46df30386b85c0b b06473adc45e0dd585909cb858883aec ffffffffffffffffffffffffffffffff 10440 /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/MacOS/RiskLog
+000000004b027f56000000000000b0b2 4451bd86c557f6fc11cd7f93f5f684d4 ffffffffffffffffffffffffffffffff 12202 /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/Resources/English.lproj/MyDocument.nib
+000000004b027c3300000000000216c1 c3cd22133400210bf885f8beab913098 ffffffffffffffffffffffffffffffff 30741 /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/Resources/English.lproj/MainMenu.nib
+000000004b027c33000000000000005a 0bf207f04064675d864406de596a1c16 ffffffffffffffffffffffffffffffff 90 /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/Resources/English.lproj/InfoPlist.strings
+00000000000000000000000000000000 f223190aaddd173e3b9c770584b2defa ffffffffffffffffffffffffffffffff 436 /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/Resources/English.lproj/Credits.rtf
+00000000000000000000000000000000 cd0fd862886957263b993265d7b2b544 ffffffffffffffffffffffffffffffff 8 /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/PkgInfo
+00000000000000000000000000000000 cd0fd862886957263b993265d7b2b544 ffffffffffffffffffffffffffffffff 2488 /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/Debug/RiskLog.app/Contents/Info.plist
+49a20e16f702b4998e712dbd6de46408 f62ef95b6d6d4e8cf8840b13f3321307 ffffffffffffffffffffffffffffffff 4984 /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/RiskLog.build/Debug/RiskLog.build/Objects-normal/x86_64/main.o
+49a20e16bc00c8aa8e712dbd6de467c1 ebade3e9fe5a933a5ce9f810758ae9cb ffffffffffffffffffffffffffffffff 19120 /Users/kevinmcaleer/Xcode/Dev/RiskLog/build/RiskLog.build/Debug/RiskLog.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o
+000000000bfee5dd00000000000016e0 49a20e16f73a871f8e712dbd6de47208 ffffffffffffffffffffffffffffffff 54212368 /var/folders/wH/wHJERgQgE10b4aXHp8Utt++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RiskLog_Prefix-cghvquowvbduhhdkcpfrftvzktxy/RiskLog_Prefix.pch.gch
